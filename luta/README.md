@@ -1,0 +1,1 @@
+Uma classica batalha pokemon
