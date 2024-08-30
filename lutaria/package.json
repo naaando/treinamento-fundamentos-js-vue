@@ -1,10 +1,11 @@
 {
-  "name": "luta",
+  "name": "Lutaria",
   "version": "1.0.0",
   "description": "Uma classica batalha pokemon",
-  "main": "luta.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
-    "start": "node luta.js",
+    "start": "node main.js",
     "test": "jest"
   },
   "author": "",
