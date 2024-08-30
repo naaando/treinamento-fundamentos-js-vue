@@ -38,7 +38,7 @@ const lutadorPrototype = {
     );
 
     this.vida -= ataqueEfetivado;
-    this.folego = Math.min(0, this.folego - 3);
+    this.folego = Math.max(0, this.folego - 3);
   },
   recuperar: recuperar,
   status: function status() {
